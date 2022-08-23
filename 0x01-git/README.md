@@ -1,1 +1,1 @@
-My first edit on Github
+How to be up to date in git
